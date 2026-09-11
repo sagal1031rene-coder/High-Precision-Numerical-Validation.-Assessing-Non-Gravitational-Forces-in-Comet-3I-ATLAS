@@ -1,0 +1,1 @@
+\# Dependencias científicas para la simulación orbital 3I/ATLAS (3iatlas) numpy&gt;=1.24.0 scipy&gt;=1.10.0 matplotlib&gt;=3.7.0 pandas&gt;=2.0.0
